@@ -1,0 +1,331 @@
+
+#header-main-div{
+	
+	height:250px;
+	width:auto;
+	background-color:003366;
+	
+	background:linear-gradient( to bottom, midnightblue,white,orange);
+	
+}
+#header-div1{
+	height:200px;
+	width:270px;
+	margin-left:80px;
+	margin-bottom:60;
+	
+	background-color:003399;
+	margin-top:20px;
+}
+#header-img{
+	height:180px;
+	width:250px;
+	margin:10px;
+	
+}
+#header-div2{
+	height:200px;
+	width:870px;
+	margin-left:30px;
+	margin-bottom:60;
+	
+		background:linear-gradient( to bottom, midnightblue, orange);
+	margin-top:05px;
+	
+	
+}
+
+
+#header-div3{
+	height:170px;
+	width:770px;
+	margin-left:20px;
+	margin-bottom:50px;
+	margin-top:20px;
+		background:linear-gradient( to bottom, midnightblue, orange,white);
+	border:solid 5px;
+	border-color:white;
+	padding-left:50;
+	color:white;
+	font-size:50;
+	padding-top:20;
+	text-align:center;
+	line-height:150px;
+	text-shadow: 20px 8px 20px black;
+    transition:font-size,  1s;
+	
+}
+#header-div3:hover{
+	
+font-size:80;
+
+}
+#menu{
+	height:50px;
+	width:auto;
+	color:white;
+
+	
+	background:linear-gradient( to bottom, midnightblue, orange);
+	
+	
+}
+#menu-li{
+	display:inline-block;
+	color:white;
+	display:inline-block;
+	width:145px;
+	height:50px;
+
+    text-align:center;
+	font-size:20px;
+     text-decoration:none;
+    color:white;
+	line-height:50px;
+	transition: width 2s, height 1s;
+	
+	
+}
+#menu-li:hover{
+	
+	background:linear-gradient( to bottom, midnightblue,white, orange);
+width:190px;
+	height:80px;
+	font-size:20px;
+	color:red;
+	
+
+
+}
+#menu-ul{
+		display:inline-block;
+
+}
+
+#body-div{
+	height:1200px;
+	width:1200px;
+
+	
+	margin-left:60px;
+	
+	
+	
+}
+#body-img1{
+	height:450px;
+	width:1200px;
+	position:absolute;
+	z-index:-1;
+	
+}
+.body-div1{
+	text-align:center;
+	margin-top:50px;
+	height:300px;
+	width:250px;
+	border:solid;
+	border-color:white;
+	margin-left:700px;
+	background-color:black;
+	position:absolute;
+	z-index:1;
+	opacity: 0.6;
+}
+ #body-li1{
+	text-align:center;
+	color:black;
+	font-size:30px;
+	display:block;
+	background-color:white;
+	text-decoration:none;
+}
+
+ #body-li2{
+	text-align:center;
+	color:yellow;
+	font-size:30px;
+	display:block;
+	
+}
+
+#campus-div{
+	
+	text-align:justify;
+	margin-top:500;
+	width:250;
+	height:400;
+	border:solid;
+	margin-left:4;
+	margin-right:20;
+	padding:10;
+	color:black;
+	border-color:white;
+	background:linear-gradient(lightgrey,white);
+	box-shadow:10px 10px 5px #888888;
+	border:solid;
+	border-radius:5%;
+	border-color:grey;
+}
+#myimg{
+	
+	width:250;
+	height:200;
+	
+}
+#mydiv1{
+	
+	
+	margin-top:50;
+	width:300;
+	height:400;
+	border:solid;
+	margin-left:50;
+	margin-right:22;
+	border-color:white;
+	background:linear-gradient(lightgrey,white);
+	padding:5;
+	color:black;
+		box-shadow:10px 10px 5px #888888;
+}
+
+#mydiv1-div{
+	width:300;
+	height:50;
+	background-color:midnightblue;
+	text-align:center;
+	font-size:25px;
+	color:white;
+	line-height:50px;
+	
+}
+#acdemic-li{
+	display:block;
+	text-decoration:none;
+	font-size:20;
+	color:black;
+}
+#acdemic-li:hover{
+	display:block;
+	text-decoration:none;
+	font-size:25;
+	color:red;
+}
+#myimg1{
+	
+	width:300;
+	height:290;
+	transition:height 1s;
+}
+#myimg1:hover{
+	
+	width:300;
+	height:350;
+	
+}
+#mydiv2{
+	
+	
+	margin-top:250;
+	width:1310;
+	height:200;
+	border:solid;
+
+	border-color:white;
+	background-color:midnightblue;
+	padding:10px;
+	color:black;
+	
+}
+#mydiv2about{
+	
+	
+	margin-top:450;
+	width:1310;
+	height:200;
+	border:solid;
+
+	border-color:white;
+	background-color:midnightblue;
+	padding:10px;
+	color:black;
+	
+}
+#mydiv2courses{
+	
+	
+	margin-top:720;
+	width:1310;
+	height:200;
+	border:solid;
+
+	border-color:white;
+	background-color:midnightblue;
+	padding:10px;
+	color:black;
+	
+}
+#mydiv2student{
+	
+	
+	margin-top:300;
+	width:1310;
+	height:200;
+	border:solid;
+
+	border-color:white;
+	background-color:midnightblue;
+	padding:10px;
+	color:black;
+	
+}
+.mydiv7{
+	height:200;
+	width:300;
+}
+
+.footer{
+	margin-top:-2;
+background:linear-gradient(midnightblue,orange);
+	width:1335;
+	height:400;
+}
+.changing-div{
+	
+	height:Auto;
+	width:950px;
+	border:solid;
+	margin-top:500px;
+		margin-left:500px;
+		margin-right:500px;
+margin-left:100px;
+padding:20px;
+}
+.changing-divstu{
+	
+	height:1150;
+	width:950px;
+	border:solid;
+	margin-top:450px;
+		margin-left:500px;
+		margin-right:500px;
+margin-left:100px;
+padding:20px;
+}
+
+#faculity{
+	
+	width:200;
+	height:200px;
+}
+#trip{
+	width:400;
+	height:200;
+	transition:width 1s, height 1s;
+}
+#trip:hover{
+	width:500;
+
+	height:500;
+	
+}
